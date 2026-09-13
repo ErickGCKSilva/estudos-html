@@ -31,3 +31,12 @@ li{
 a {
     color: lightgreen;
 }
+
+figcaption {
+    color: white;
+}
+
+.foto-perfil {
+    width: 300px;
+    height: auto;
+}
