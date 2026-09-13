@@ -25,5 +25,9 @@ div {
 }
 
 li{
- color: white;
+    color: white;
+}
+
+a {
+    color: lightgreen;
 }
