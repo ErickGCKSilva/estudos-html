@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1 {
+    color: yellow;
+    font-size: 20px;
+}
+
+h2 {
+    color: blue;
+    font-size: 16px;
+}
+
+p {
+    color: white;
+}
+
+em {
+    color: lightgreen;
+}
+
+div {
+    margin-bottom: 50px;
+    padding: 24px;
+}
